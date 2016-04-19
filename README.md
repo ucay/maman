@@ -1,2 +1,1 @@
-# maman
-Mail Management bundle
+# Mail Management Bundle (MamanBundle)
